@@ -160,12 +160,12 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
-py_scripts/__init__.py
-notebooks_exploration_cleaning/extractData.ipynb
-data_treated/README.txt
-py_scripts/my_Module.py
-notebooks_models/modelData.ipynb
-data_treated/extracted_values.csv
+py_scripts/
+notebooks_exploration_cleaning/
+data_treated/
+py_scripts/
+notebooks_models/
+data_treated/
 README.md
-data_raw/README.txt
+data_raw/
 README.md
